@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+#Ikechukwu Onuorah
+###Full Stack Developer and Git expert
